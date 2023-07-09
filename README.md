@@ -1,2 +1,2 @@
 # spring-boot-redis
-this project show how can you use redis as a cache manager
+this project show you how can use redis as a cache manager
